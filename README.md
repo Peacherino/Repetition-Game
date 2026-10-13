@@ -2,6 +2,7 @@
 This is a pattern memorization game written in python with a GUI made using pyFLTK.
 
 ## Screenshot of Gameplay
+<img width="672" height="87" alt="pattern_game-ss" src="https://github.com/user-attachments/assets/04a18f3f-f05a-4cf7-913d-122920e202dd" />
 
 ## About Project:
 I made this project for practice with making timed events that create game states.
@@ -9,6 +10,7 @@ I made this project for practice with making timed events that create game state
 In this project, the program and player take turns interacting with the same buttons. In order to
 prevent players from interfering with the program's sequence, I had to make it so the player could not
 interact with the buttons during the program's turn.
+
 
 I used what I had learned in my earlier music-playlist project about subprocesses for the buttons' sound
 effects. (should i put this in how it works?)
