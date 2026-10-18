@@ -13,7 +13,7 @@ interact with the buttons during the program's turn.
 
 
 I used what I had learned in my earlier music-playlist project about subprocesses for the buttons' sound
-effects. (should i put this in how it works?)
+effects.
 
 ## How it works:
 The game begins with 4 coloured buttons: red, blue, yellow, green.
